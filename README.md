@@ -78,3 +78,9 @@ It provides core e-commerce functionalities such as product management, user aut
 ![alt text](image-14.png)
 ![alt text](image-15.png)
 ![alt text](image-16.png)
+
+
+## Additional Information
+### Before Using this repo
+- Add Assets folder in Components folder of Frontend and Admin.
+- Add upload/images folder in Backend for storing images.
