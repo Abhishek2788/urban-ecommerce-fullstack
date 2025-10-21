@@ -1,0 +1,29 @@
+.adminhome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* max-width: 800px; */
+    height: 600px;
+    padding: 30px 50px;
+    margin: 20px 30px;
+    border-radius: 6px;
+    background: white;
+}
+.admin-header{
+    font-size: 50px;
+    color: red;
+}
+
+@media (max-width: 800px){
+    .adminhome{
+        padding: 10px 10px;
+        margin: 0px;
+        border-radius: 6px;
+        background: #faf8f8;
+    }
+    .admin-header{
+        font-size: 40px;
+    }
+}
