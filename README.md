@@ -7,7 +7,6 @@ It provides core e-commerce functionalities such as product management, user aut
 ### Frontend & Admin
 - ⚛️ React (Vite)
 - 🔀 React Router DOM — for navigation
-- 🎨 Tailwind CSS (optional styling framework if used)
 
 ### Backend
 - 🟢 Node.js & Express
